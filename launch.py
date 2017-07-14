@@ -36,4 +36,4 @@ hunger_games = movie.Movie("Hunger Games",
 
 movies = [toy_story , avatar , school_of_rock , ratatouille , midnight_in_paris ,hunger_games]
 my_page.open_movies_page(movies)
-
+print(movie.Movie.__doc__)
