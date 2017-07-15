@@ -7,7 +7,6 @@ toy_story = movie.Movie("Toy Story",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
-
 avatar = movie.Movie("Avatar",
                      "A marine on an alien planet",
                      "https://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
@@ -17,7 +16,6 @@ school_of_rock = movie.Movie("School of Rock",
                         "Storyline",
                         "https://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
                         "https://www.youtube.com/watch?v=LqEszt5wG9I")
-
 
 ratatouille = movie.Movie("Ratatouille",
                      "Storyline",
